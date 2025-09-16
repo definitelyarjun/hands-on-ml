@@ -1,2 +1,2 @@
 # hands-on-ml
-[learning] repo for the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
+repo dump for ml stuff ill be learning everyday
