@@ -1,0 +1,3 @@
+Alright, so this is day unknown of my machine learning journey, "day unknown" huh what? tldr; i did plan on doing daily logs for the stuff i've been learning, but that never happened so this is just to catch up on stuff i did learn till today.
+
+ - Covered up basics of matplotlib, the jupyter notebook can be found in the "notebook" folder. Before moving on to numpy im gonna be playing around with some more matplotlib just to experiment.
